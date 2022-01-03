@@ -1,5 +1,5 @@
-[
-  {
+}
+  "posts":{
     "_id": "61d2b89ce127d8390b9c9b8a",
     "nombre": "Arnold Eaton",
     "edad": 27,
@@ -34,4 +34,4 @@
     "correo": "griffinthornton@zentility.com",
     "pais": "Guatemala"
   }
-]
+}
